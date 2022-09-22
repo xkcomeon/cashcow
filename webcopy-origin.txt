@@ -1,0 +1,292 @@
+Uri: https://c.ekstatic.net/adrum/adrum-4.3.3.5.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\adrum\adrum-4.3.3.5.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/assets/apple-touch-icon.png?h=2.0.359
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\assets\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://c.ekstatic.net/assets/favicon.ico?h=2.0.359
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\assets\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://c.ekstatic.net/boxever-1.4.1.min.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\boxever-1.4.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://c.ekstatic.net/ecl/logos/appstore/apple-en.svg?h=FJJxsKPmgHqgUIyQclfJDQ
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\appstore\apple-en.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/appstore/google-en.svg?h=cmeirryR6eVLHItt4HLLeQ
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\appstore\google-en.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/awards/apex-world-class-airline.svg?h=TUKEalKMnvKQogINjvDRqQ
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\awards\apex-world-class-airline.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/awards/fgfa-star.svg?h=Za6v2MGXyMZnknGkPgla4Q
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\awards\fgfa-star.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/awards/skytrax-badge-2019.svg?h=1fb76e074d973bfc22470adad6d5cae0
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\awards\skytrax-badge-2019.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/emirates/emirates-logo-badge.svg?h=d-52wmsnqryhi7L83BAKpg
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\emirates\emirates-logo-badge.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/logos/emirates/emirates-logo-horizontal.svg?h=nMiqF1sXP0LwuM-vCquofw
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\logos\emirates\emirates-logo-horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://c.ekstatic.net/ecl/skywards/ghaf-tree-background-w1280x960.jpg?h=x9MVwDsK0CXcjZA1jGsHLA
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ecl\skywards\ghaf-tree-background-w1280x960.jpg
+Content Type: image/jpeg
+
+Uri: https://c.ekstatic.net/ekl/uiassets/app.f6796b1f28d89c266bb1.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\app.f6796b1f28d89c266bb1.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/common.113e7e923f5d1840c97e.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\common.113e7e923f5d1840c97e.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/common.7ec671c04d628234002f.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\common.7ec671c04d628234002f.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/ekl/uiassets/components/g-o-c-008-5-page-header-white-font.4919dac1a5eac961e8a7.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\components\g-o-c-008-5-page-header-white-font.4919dac1a5eac961e8a7.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/components/g-o-c-008-5-page-header-white-font.e420b6f433361c4dc060.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\components\g-o-c-008-5-page-header-white-font.e420b6f433361c4dc060.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/ekl/uiassets/components/skywards-registration.56c4c8e73f7557a939cb.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\components\skywards-registration.56c4c8e73f7557a939cb.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/components/skywards-registration.810a16bbd13bf1e97a60.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\components\skywards-registration.810a16bbd13bf1e97a60.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/ekl/uiassets/ek-styles.8080836db06a4ea13604.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\ek-styles.8080836db06a4ea13604.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/Emirates-Medium-Italic.8e1cdc2.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\Emirates-Medium-Italic.8e1cdc2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/heroic-condensed-black-oblique.e4d3607.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\heroic-condensed-black-oblique.e4d3607.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/heroic-condensed-light-oblique.6f73c95.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\heroic-condensed-light-oblique.6f73c95.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/heroic-condensed-medium-oblique.1c6976a.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\heroic-condensed-medium-oblique.1c6976a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/RobotoCondensed-Regular.d79810c.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\RobotoCondensed-Regular.d79810c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://c.ekstatic.net/ekl/uiassets/fonts/RobotoCondensed-Regular.e6fd95f.ttf
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\fonts\RobotoCondensed-Regular.e6fd95f.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/ekl/uiassets/layouts/content.a745d05fd30e887af75f.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\layouts\content.a745d05fd30e887af75f.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/layouts/content.f2d58ab4f04ba06eeee6.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\layouts\content.f2d58ab4f04ba06eeee6.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/ekl/uiassets/runtime.b68d063d680d8ed111c5.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\runtime.b68d063d680d8ed111c5.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/vendor.344d89f94c67f07e47a6.chunk.js
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\vendor.344d89f94c67f07e47a6.chunk.js
+Content Type: application/javascript
+
+Uri: https://c.ekstatic.net/ekl/uiassets/vendor.8968dac6836049eacf9b.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\ekl\uiassets\vendor.8968dac6836049eacf9b.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/arabic.ttf?a41e55ecdea5d4241c31ebc83b4dcc3f
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\arabic.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/arabic.woff2?0064c949284b725522eff96e75d58991
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\arabic.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/arabic.woff?c3963d09b644a750a36e151aa06cb9fa
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\arabic.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/cyrillic.ttf?6f6db5d7d43704b7a098c6fb6068236b
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\cyrillic.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/cyrillic.woff2?22485a477904ccf1b89123170a871f0b
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/cyrillic.woff?a2356834fa2f37698f7c60511e12c862
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\cyrillic.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/fallback.ttf?5c8965477440e00bc87a81d77bd84542
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\fallback.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/fallback.woff2?477ff00b2e4e5ed0276395140ce49c03
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\fallback.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/fallback.woff?1df8e3c2d5a13b3c4a6c9cd47a57c7ef
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\fallback.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/greek.ttf?7fa261188e7bb10b7b73a20a9120fbf7
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\greek.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/greek.woff2?4dde9a7308787a186ef8c4e6ba327b1d
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\greek.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/greek.woff?f6ef84a337b89c08b3abad4368900561
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\greek.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin-ext.ttf?f2ff83bfd28a6f728e9f58dbfae4520b
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin-ext.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin-ext.woff2?64df9eb2d514e9b5311332b114d97094
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin-ext.woff?36f0c0e934b9ecb1e703d3e51b984a2c
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin-ext.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin.ttf?7019fb4276057626a6e8272e39694271
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin.woff2?0c3aac59d1d118f1fa65d05eedfd6ef5
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates-v4/emirates-medium/latin.woff?fdb9cc1156d4d273ee3ba2a249bb7ec8
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates-v4\emirates-medium\latin.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-bold-v3.ttf
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-bold-v3.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-bold-v3.woff
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-bold-v3.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-bold-v3.woff2
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-bold-v3.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-light-v3.ttf
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-light-v3.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-light-v3.woff
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-light-v3.woff
+Content Type: application/font-woff
+
+Uri: https://c.ekstatic.net/shared/fonts/emirates/emirates-light-v3.woff2
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\emirates\emirates-light-v3.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/iconography/iconography.css
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\iconography\iconography.css
+Content Type: text/css
+
+Uri: https://c.ekstatic.net/shared/fonts/iconography/iconography.ttf?9a47df6764742a10a4e54171275249ee
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\iconography\iconography.ttf
+Content Type: font/ttf
+
+Uri: https://c.ekstatic.net/shared/fonts/iconography/iconography.woff2?9a47df6764742a10a4e54171275249ee
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\iconography\iconography.woff2
+Content Type: font/woff2
+
+Uri: https://c.ekstatic.net/shared/fonts/iconography/iconography.woff?9a47df6764742a10a4e54171275249ee
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\iconography\iconography.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.ek.aero/shared/fonts/ek-icons/ek-font-icons.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\ek-icons\ek-font-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.ek.aero/shared/fonts/ek-icons/ek-font-icons.svg
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\ek-icons\ek-font-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.ek.aero/shared/fonts/ek-icons/ek-font-icons.ttf
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\ek-icons\ek-font-icons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.ek.aero/shared/fonts/ek-icons/ek-font-icons.woff
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\ek-icons\ek-font-icons.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.ek.aero/shared/fonts/ek-icons/ek-font-icons.woff2
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\ek-icons\ek-font-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.ek.aero/shared/fonts/tanseek/TanseekModernProArabic-Bold.eot
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\tanseek\TanseekModernProArabic-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.ek.aero/shared/fonts/tanseek/TanseekModernProArabic-Bold.svg
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\tanseek\TanseekModernProArabic-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.ek.aero/shared/fonts/tanseek/TanseekModernProArabic-Bold.woff
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\tanseek\TanseekModernProArabic-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.ek.aero/shared/fonts/tanseek/TanseekModernProArabic-Bold.woff2
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\shared\fonts\tanseek\TanseekModernProArabic-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v16/t6Nd4cfPRhZP44Q5QAjcCzUj_cnvWIuuBMVgbX098Mw.woff2
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\s\roboto\v16\t6Nd4cfPRhZP44Q5QAjcCzUj_cnvWIuuBMVgbX098Mw.woff2
+Content Type: font/woff2
+
+Uri: https://www.emirates.com/9tNduf/ozGgz/VDbnu/tTEm/G35Q4GkXpaaO/WV47agRFFAY/A0J4VAY/pCiUB
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\9tNduf\ozGgz\VDbnu\tTEm\G35Q4GkXpaaO\WV47agRFFAY\A0J4VAY\pCiUB
+Content Type: application/javascript
+
+Uri: https://www.emirates.com/english/skywards/registration/
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\english\skywards\registration\index.htm
+Content Type: text/html
+
+Uri: https://www.emirates.com/manifest.webmanifest
+File Name: C:\Users\Bizhub\Downloads\baba\www.emirates.com\manifest.webmanifest
+Content Type: application/manifest+json
+
